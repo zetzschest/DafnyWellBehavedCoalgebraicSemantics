@@ -3,4 +3,12 @@
 
 ## About this repository
 
-This repository contains the source code accompanying the paper [Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny](https://link.springer.com/chapter/10.1007/978-3-031-77019-7_3).
+This repository contains the source code accompanying the paper [Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny](https://link.springer.com/chapter/10.1007/978-3-031-77019-7_3) by [Stefan Zetzsche](https://zetzsche.st) and [Wojciech Różowski](https://github.com/wkrozowski). To cite this repository you can currently use the following reference:
+```  
+@software{Zetzsche_Dafny-VMC_a_Library_2024,
+author = {Zetzsche, Stefan and Rozowski, Wojciech},
+title = {{Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny}},
+url = {https://github.com/zetzschest/DafnyWellBehavedCoalgebraicSemantics},
+year = {2024}
+}
+```
