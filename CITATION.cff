@@ -6,7 +6,7 @@ authors:
 - family-names: "Rozowski"
   given-names: "Wojciech"
 title: "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny"
-url: "https://github.com/zetzschest/DafnyWellBehavedCoalgebraicSemantics"
+url: "https://github.com/zetzschest/dafny-well-behaved-coalgebraic-semantics"
 preferred-citation:
   type: software
   authors:
@@ -15,5 +15,5 @@ preferred-citation:
   - family-names: "Rozowski"
     given-names: "Wojciech"
   title: "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny"
-  url: "https://github.com/zetzschest/DafnyWellBehavedCoalgebraicSemantics"
+  url: "https://github.com/zetzschest/dafny-well-behaved-coalgebraic-semantics"
   year: 2024
