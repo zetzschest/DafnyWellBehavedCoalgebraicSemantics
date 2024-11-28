@@ -6,7 +6,7 @@ This repository contains the source code accompanying the paper [Well-Behaved (C
 @software{Zetzsche_Well-Behaved_Co_algebraic_Semantics_2024,
 author = {Zetzsche, Stefan and Rozowski, Wojciech},
 title = {{Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny}},
-url = {https://github.com/zetzschest/DafnyWellBehavedCoalgebraicSemantics},
+url = {https://github.com/zetzschest/dafny-well-behaved-coalgebraic-semantics},
 year = {2024}
 }
 ```
